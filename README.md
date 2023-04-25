@@ -1,3 +1,4 @@
+サクッと作れる！ React でブラウザ拡張機能のテンプレートを作ってみたのテンプレート
 # Template for a browser extension
 
 Build a browser extension with React + TypeScript + esbuild.
